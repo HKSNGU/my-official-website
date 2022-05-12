@@ -1,0 +1,186 @@
+.top-container {
+  background-color: #8fd6e1;
+}
+
+.asia {
+  width: 50%;
+  margin: 4rem 0rem 0rem;
+}
+
+body {
+  margin: 0em;
+  text-align: center;
+  background-color: #f4f9f9;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #1597bb;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  padding: 10rem 0rem 0rem;
+  margin: 0rem;
+}
+
+.WebDeve {
+  color: #1597bb;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0rem;
+  font-size: x-large;
+}
+
+.pro {
+  padding-top: 10%;
+  width: 32%;
+  margin: auto;
+}
+
+.profile {
+  width: 50%;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #1597bb;
+  font-family: 'Montserrat', sans-serif;
+}
+h3 {
+  color: #1597bb;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  margin: 9rem auto 9rem;
+  border-style: none;
+  border-top: 5px dotted #7c99ac;
+  width: 4%;
+}
+
+p {
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.coding {
+  width: 12rem;
+  float: left;
+  margin-right: 20px;
+}
+.art {
+  width: 12rem;
+  float: right;
+  margin-left: 20px;
+}
+.WebDev {
+  width: 12rem;
+  float: left;
+  margin-right: 20px;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 10px auto 10px auto;
+}
+
+.bottom-container {
+  background-color: #8fd6e1;
+  height: 9rem;
+  padding-top: 2rem;
+  margin-top: 10rem;
+}
+
+.facebook {
+  margin-right: 4rem;
+}
+.instagram {
+  margin-right: 4rem;
+}
+
+.copy {
+  margin-top: 5rem;
+  font-size: medium;
+  color: aliceblue;
+}
+
+.btn {
+  background: #38afff;
+  background-image: -webkit-linear-gradient(top, #38afff, #106396);
+  background-image: -moz-linear-gradient(top, #38afff, #106396);
+  background-image: -ms-linear-gradient(top, #38afff, #106396);
+  background-image: -o-linear-gradient(top, #38afff, #106396);
+  background-image: linear-gradient(to bottom, #38afff, #106396);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 2rem;
+}
+
+.btn:hover {
+  background: #3ce6fc;
+  background-image: -webkit-linear-gradient(top, #3ce6fc, #31828f);
+  background-image: -moz-linear-gradient(top, #3ce6fc, #31828f);
+  background-image: -ms-linear-gradient(top, #3ce6fc, #31828f);
+  background-image: -o-linear-gradient(top, #3ce6fc, #31828f);
+  background-image: linear-gradient(to bottom, #3ce6fc, #31828f);
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: #1597b1;
+}
+
+a:hover {
+  color: #ecfc0f;
+}
+
+.contact {
+  background-color: #8fd6e1;
+}
+
+.tab {
+  line-height: 2;
+  margin: 10px auto 10px auto;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.rul {
+  margin: 5rem auto 5rem auto;
+}
+
+.Vart {
+  width: 50%;
+  margin: 3rem auto 3rem auto;
+}
+
+.asia {
+  width: 50%;
+}
+.profile {
+  width: 50%;
+}
+.travel {
+  width: 50%;
+}
+
+.college_logo {
+  border-radius: 100%;
+  width: 50%;
+}
+
+.top {
+  background-color: #8fd6e1;
+  height: 5rem;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
